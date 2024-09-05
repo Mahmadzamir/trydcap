@@ -1,8 +1,4 @@
 backend:
-  name: git-gateway
-  branch: main
-
-backend:
   name: github
   repo: Mahmadzamir/trydcap # Your GitHub repository
   branch: main
